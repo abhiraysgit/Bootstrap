@@ -1,0 +1,32 @@
+
+.header{
+
+    height: 90vh;
+    width: 100%;
+    
+    color: whitesmoke;
+    background: linear-gradient(to right,rgba(0, 0, 0, 0.7),rgba(0,0,0,0.3)), url(https://images.pexels.com/photos/264176/pexels-photo-264176.jpeg);
+    background-size: cover;
+}
+.h{
+    height: 100%;
+    width: 100%;
+}
+.btn{
+
+    border-radius: 10rem!important;
+    padding: 1.15rem!important;
+}
+.message{
+
+    background-image: linear-gradient(to top, #764fd1 0%, #c16eaa 100%);
+}
+.myicon{
+    font-size: 60px;
+    padding: 20px;
+}
+.footer{
+
+    height: 100%;
+    width: 100%;
+}
